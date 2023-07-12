@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+button{
+    width: 130 px;
+    height: 60 px;
+    background: black;
+    color: white;
+    font-size: 24 px;
+    border-radius: 10 px;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    
+}
